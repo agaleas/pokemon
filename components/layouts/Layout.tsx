@@ -29,7 +29,7 @@ export const Layout = ({
         />
         <meta
           property="og:image"
-          content={`${origin}/_next/image?url=%2Fimg%2Fcsharp.jpg&w=384&q=75`}
+          content={`${origin}/img/csharp.jpg`}
         />
       </Head>
 
